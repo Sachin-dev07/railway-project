@@ -1,2 +1,15 @@
-# railway-project
-A Railway Management System project designed for efficient handling of train schedules, ticket reservations, and passenger records with modular architecture and clean code structure
+# Railway Management System
+
+This project is a Railway Management System designed to manage train details, ticket booking, and passenger records efficiently.  
+It helps in maintaining proper data flow between train schedules and passenger reservations with a clean and structured design.
+
+## Features
+- Train schedule management
+- Ticket booking system
+- Passenger information tracking
+- User-friendly interface
+- Modular code structure
+
+## Technologies Used
+- HTML, CSS, JavaScript  
+- PHP/Java
