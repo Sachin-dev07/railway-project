@@ -11,5 +11,4 @@ It helps in maintaining proper data flow between train schedules and passenger r
 - Modular code structure
 
 ## Technologies Used
-- HTML, CSS, JavaScript  
-- PHP/Java
+Java
